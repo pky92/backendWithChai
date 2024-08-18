@@ -1,0 +1,14 @@
+{
+  "name": "class4professionalsetup",
+  "version": "1.0.0",
+  "description": "backend with chai and code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "pankaj",
+  "license": "ISC"
+}
